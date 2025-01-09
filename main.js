@@ -74,8 +74,8 @@ console.log("Contract:",contract);
 
 async function addData() {
 
-    const privateKey = 'xxx'; 
-    const senderAddress = '0xdAFF799ADaF32E1E1041e9C95D8AEEdc921bBbC1';
+    const privateKey = 'your_private_key'; 
+    const senderAddress = 'wallet_address';
 	console.log("Wallet Address:",senderAddress);
 
     const id = document.getElementById('id').value;
